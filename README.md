@@ -10,7 +10,7 @@
 <img src="activity.png" width=500 height=500>
 
 ## Class Diagram
-<img src="class Diagram" width=500 height=500>
+<img src="class Diagram.png" width=500 height=500>
 
 ## DataFlow Diagram
 <img src="dataflow.jpeg" width=500 height=500>
